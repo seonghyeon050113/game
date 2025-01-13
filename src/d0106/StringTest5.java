@@ -5,7 +5,7 @@ public class StringTest5 {
 		String str1 = "안녕하십니까?하";
 		String c = "하";
 		for(int i=0; i<str1.length() ;i++) {
-				 if (str1.substring(i,i+1).equals(c)) {
+				 if (str1.substring(i).equals(c)) {
 					 System.out.println(i);
 				 }  
 		
