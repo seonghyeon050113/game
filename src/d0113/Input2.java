@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Input2 {
 	public static void main(String[]args) {
-		while(true)
+		
 			{
 			Random r = new Random();
 			Scanner s = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class Input2 {
 			}else {
 				System.out.print("맞다");
 			}
-		}
+			}
 		
 	}
 }
