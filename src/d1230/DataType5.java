@@ -8,7 +8,7 @@ public class DataType5 {
 		System.out.println(str);
 		str = str + 1;
 		System.out.println(str);
-		
+		//저 html로 이것저것 개발하는거 좋아합니다.
 		
 	}
 }
